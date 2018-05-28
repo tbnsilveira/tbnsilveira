@@ -1,2 +1,3 @@
 # hello-world
-First impressions and information
+First impressions and information...
+Besides getting acquaintance to the Github structure and working commands, this purpose of this first project is to keep a register on the themes I will be working on, as well as bringing a summarization of the available projects indicating each one is active, in stand-by or already finished.
