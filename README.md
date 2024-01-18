@@ -7,6 +7,7 @@ This repository was created in 2017 to get acquainted with the GitHub structure 
 ## My current research projects:
 - Semantic attribution computability
 - Classification of semantic content
+  > [SemanticFactors](https://github.com/tbnsilveira/semantic_factors)
 - MLOps for hybrid (on-premises | cloud) environment
 &nbsp;  
 &nbsp;  
